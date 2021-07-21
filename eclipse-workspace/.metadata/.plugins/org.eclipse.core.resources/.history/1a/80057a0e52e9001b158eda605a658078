@@ -1,0 +1,17 @@
+package package1;
+
+interface Shape
+{ 
+	 int area();
+	 int perimeter();
+	
+}
+
+class Circle implements Shape
+{
+	
+}
+		
+public class MyClass {
+
+}

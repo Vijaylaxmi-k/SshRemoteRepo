@@ -1,0 +1,23 @@
+// display infor by calling
+package companyDetails;
+
+public class DispTwoEmpDetailss 
+{
+
+	public static void main(String[] args) 
+	{
+		 
+				Employee emp1 = new Employee();	
+				emp1.readData();
+				emp1.printData();
+				
+				Employee emp2 = new Employee();
+				emp2.readData();
+				emp2.printData();
+				
+
+
+
+	}
+
+}

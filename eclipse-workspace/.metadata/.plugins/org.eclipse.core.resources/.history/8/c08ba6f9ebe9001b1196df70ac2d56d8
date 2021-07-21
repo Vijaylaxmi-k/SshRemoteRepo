@@ -1,0 +1,23 @@
+package mypackage;
+
+import java.util.ArrayList;
+import java.util.HashSet;
+//import java.util.PriorityQueue;
+public class MyClass 
+{
+
+	public static void main(String[] args) 
+	{
+//	ArrayList<Integer> data= new ArrayList<Integer>();
+	HashSet<Integer> data= new HashSet<Integer>();
+	data.add(56);
+	data.add(47);
+	data.add(56);
+	data.add(25);
+		
+		System.out.println(data.size());
+		//System.out.println();
+	}
+	
+
+}

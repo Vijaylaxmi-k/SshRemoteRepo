@@ -1,0 +1,24 @@
+package mypackage;
+
+import java.util.ArrayList;
+import java.util.HashSet;
+//import java.util.PriorityQueue;
+public class MyClass 
+{
+
+	public static void main(String[] args) 
+	{
+//	ArrayList<Integer> data= new ArrayList<Integer>();// will consider dup values
+	HashSet<Integer> data= new HashSet<Integer>();// it will not consider duplicate values
+	data.add(56);
+	data.add(47);
+	data.add(56);
+	data.add(25);
+		for int( d:data)
+			System.out.println(d);
+		System.out.println(data.size());
+		//System.out.println();
+	}
+	
+
+}

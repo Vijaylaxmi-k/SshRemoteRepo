@@ -1,0 +1,15 @@
+// factorial of a no. using class name
+package companyDetails;
+
+public class MathMainmm {
+
+	public static void main(String[] args)
+	{
+		Math obj1= new Math();
+		Math obj2= new Math();
+		System.out.println(obj1.factorial(4));
+		System.out.println(obj2.factorial(5));
+		
+	}
+
+}

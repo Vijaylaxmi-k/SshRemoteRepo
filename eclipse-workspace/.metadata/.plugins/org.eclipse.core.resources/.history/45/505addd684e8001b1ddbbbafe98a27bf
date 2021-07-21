@@ -1,0 +1,12 @@
+package companyDetails;
+
+public class dispTwoEmpDetails 
+{
+	Employee emp = new Employee();	
+	emp.readData();
+	emp.printData();
+	
+	Employee emp1 = new Employee();
+	emp1.readData();
+	emp1.printData();
+}

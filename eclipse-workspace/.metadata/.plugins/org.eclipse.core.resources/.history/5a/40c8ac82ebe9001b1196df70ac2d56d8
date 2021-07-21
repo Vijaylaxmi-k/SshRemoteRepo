@@ -1,0 +1,22 @@
+package mypackage;
+
+import java.util.ArrayList;
+
+public class MyClass 
+{
+
+	public static void main(String[] args) 
+	{
+	ArrayList<Integer> data= new ArrayList<Integer>();
+	data.add(56);
+	data.add(47);
+	data.add(56);
+	data.add(25);
+		
+		System.out.println(data.size());//peek wil tell who is tr in the queue
+		//System.out.println(pq.poll());//give 1st element and remove that frm queue
+		//System.out.println(pq.peek());// now disp second element
+	}
+	
+
+}

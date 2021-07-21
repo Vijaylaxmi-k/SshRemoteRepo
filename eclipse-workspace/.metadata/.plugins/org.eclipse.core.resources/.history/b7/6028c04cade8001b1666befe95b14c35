@@ -1,0 +1,10 @@
+package companyDetails;
+
+public class Factmain {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

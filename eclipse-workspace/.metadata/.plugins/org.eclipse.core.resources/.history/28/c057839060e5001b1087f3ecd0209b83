@@ -1,0 +1,16 @@
+package sample1;
+
+public class Main1 {
+int x;
+public Main1 (int x) {
+    this.x = x;
+    
+}
+
+// Call the constructor
+public static void main(String[] args) {
+  Main1 myObj = new Main1(5);
+  System.out.println("Value of x = " + myObj.x);
+	}
+
+}

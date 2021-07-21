@@ -1,0 +1,16 @@
+package Mypackage;
+
+public class MyClass 
+{
+
+	public static void main(String[] args) 
+	{
+//declare array, name of array is data and length of array is 5(array of index if from zero to 4)
+		int[] data= new int[5];
+		for(int=1;i<=5;i++) 
+
+		System.out.println(data[i]);
+
+	}
+
+}

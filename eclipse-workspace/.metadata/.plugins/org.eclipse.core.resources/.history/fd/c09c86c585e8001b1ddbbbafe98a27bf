@@ -1,0 +1,20 @@
+//pgm for two emp detail display
+package companyDetails;
+import java.util.Scanner
+
+public class dispTwoEmpDetails 
+{
+
+public static void main(String[] args) 
+ {
+	Employee emp1 = new Employee();	
+	Employee emp2 = new Employee();
+	
+	emp1.readData();
+	emp2.readData();
+	
+	emp1.printData();
+	emp2.printData();
+
+ }
+}

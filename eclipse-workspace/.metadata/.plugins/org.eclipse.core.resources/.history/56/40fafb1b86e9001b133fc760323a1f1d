@@ -1,0 +1,16 @@
+package Mypackage;
+
+public class MyClass {
+
+	public static void main(String[] args) 
+	{
+//declare array, name of array is data and length of array is 10
+// starting from index 0zero
+		//int data;
+		int[] data= new int[10];
+
+		System.out.println(data);
+
+	}
+
+}

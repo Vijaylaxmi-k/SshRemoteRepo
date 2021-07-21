@@ -1,0 +1,970 @@
+!SESSION 2021-07-11 00:55:11.911 -----------------------------------------------
+eclipse.buildId=4.20.0.I20210611-1600
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-07-11 00:59:40.994
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-11 00:59:40.994
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5e020dd1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4bbc02ef,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-11 01:00:19.454
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Yoga'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-07-11 12:57:28.955 -----------------------------------------------
+eclipse.buildId=4.20.0.I20210611-1600
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-07-11 12:58:41.651
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-11 12:58:41.651
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@181098bf,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@632b5c79,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-11 12:59:03.727
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Yoga'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-07-12 17:41:50.946 -----------------------------------------------
+eclipse.buildId=4.20.0.I20210611-1600
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-07-12 17:42:48.945
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-12 17:42:48.945
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@799971ac,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@59c08cf1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-12 17:42:56.836
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Yoga'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-07-12 17:56:18.421 -----------------------------------------------
+eclipse.buildId=4.20.0.I20210611-1600
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-07-12 17:58:37.651
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-12 17:58:37.651
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@45f0038,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@289a4b90,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-12 17:58:50.470
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Yoga'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-07-15 13:36:04.714 -----------------------------------------------
+eclipse.buildId=4.20.0.I20210611-1600
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-07-15 13:36:36.729
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-15 13:36:36.729
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@47ffdbba,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@ba0018e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-15 13:36:53.397
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Yoga'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-07-18 16:04:29.886 -----------------------------------------------
+eclipse.buildId=4.20.0.I20210611-1600
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-07-18 16:04:57.604
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-18 16:04:57.604
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@77d95e5a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6339e604,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-18 16:05:14.066
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Yoga'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-07-19 12:03:13.677 -----------------------------------------------
+eclipse.buildId=4.20.0.I20210611-1600
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-07-19 12:04:36.101
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-19 12:04:36.101
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7037a680,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@492c8137,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-19 12:05:00.319
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Yoga'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-07-19 21:05:21.211 -----------------------------------------------
+eclipse.buildId=4.20.0.I20210611-1600
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-07-19 21:06:36.260
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-19 21:06:36.260
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6fe5da76,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@77d95e5a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-19 21:07:00.409
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Yoga'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jdt.core 4 4 2021-07-19 21:44:03.192
+!MESSAGE Exception occurred during compilation unit conversion:
+----------------------------------- SOURCE BEGIN -------------------------------------
+package companyDetails;
+
+public class factofnumb 
+{
+ private int factorial(int n)
+ {
+	 int i, fact=1;
+	 for(i=1;i<=1;i++)
+		 fact=fact*i;
+	 return fact;
+	 
+ }
+ public int i nCr(int n, int r)
+ {
+	 return factorial(n)(n-r)
+ }
+}
+
+----------------------------------- SOURCE END -------------------------------------
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2031)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3795)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1943)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1974)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3052)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3347)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1524)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:494)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:201)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1142)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1319)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.access$0(JavaReconcilingStrategy.java:113)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:93)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:157)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+
+!ENTRY org.eclipse.jdt.ui 4 2 2021-07-19 21:44:03.310
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.ui".
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2031)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3795)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1943)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1974)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3052)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3347)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1524)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:494)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:201)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1142)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1319)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.access$0(JavaReconcilingStrategy.java:113)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:93)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:157)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+
+!ENTRY org.eclipse.jdt.ui 4 0 2021-07-19 21:44:03.314
+!MESSAGE Error in JDT Core during reconcile
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2031)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3795)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1943)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1974)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3052)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3347)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1524)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:494)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:201)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1142)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1319)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.access$0(JavaReconcilingStrategy.java:113)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:93)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:157)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+
+!ENTRY org.eclipse.jdt.core 4 4 2021-07-19 21:44:03.338
+!MESSAGE Exception occurred during compilation unit conversion:
+----------------------------------- SOURCE BEGIN -------------------------------------
+package companyDetails;
+
+public class factofnumb 
+{
+ private int factorial(int n)
+ {
+	 int i, fact=1;
+	 for(i=1;i<=1;i++)
+		 fact=fact*i;
+	 return fact;
+	 
+ }
+ public int i nCr(int n, int r)
+ {
+	 return factorial(n)(n-r)
+ }
+}
+
+----------------------------------- SOURCE END -------------------------------------
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2031)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3795)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1943)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1974)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3052)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3347)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1524)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1231)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:820)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:187)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 2 2021-07-19 21:44:03.344
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core.manipulation".
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2031)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3795)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1943)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1974)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3052)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3347)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1524)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1231)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:820)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:187)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 0 2021-07-19 21:44:03.349
+!MESSAGE Error in JDT Core during AST creation
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2031)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3795)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1943)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1974)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3052)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3347)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1524)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1231)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:820)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:187)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core 4 4 2021-07-19 21:44:08.750
+!MESSAGE Exception occurred during compilation unit conversion:
+----------------------------------- SOURCE BEGIN -------------------------------------
+package companyDetails;
+
+public class factofnumb 
+{
+ private int factorial(int n)
+ {
+	 int i, fact=1;
+	 for(i=1;i<=1;i++)
+		 fact=fact*i;
+	 return fact;
+	 
+ }
+ public int i nCr(int n, int r)
+ {
+	 return factorial(n)(n-r)
+ }
+}
+
+----------------------------------- SOURCE END -------------------------------------
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2031)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3795)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1943)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1974)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3052)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3347)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1524)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1231)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:820)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 2 2021-07-19 21:44:08.756
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core.manipulation".
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2031)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3795)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1943)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1974)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3052)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3347)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1524)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1231)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:820)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 0 2021-07-19 21:44:08.761
+!MESSAGE Error in JDT Core during AST creation
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2031)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3795)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1943)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1974)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3052)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3347)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1524)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1231)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:820)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core 4 4 2021-07-19 21:44:09.909
+!MESSAGE Exception occurred during compilation unit conversion:
+----------------------------------- SOURCE BEGIN -------------------------------------
+package companyDetails;
+
+public class factofnumb 
+{
+ private int factorial(int n)
+ {
+	 int i, fact=1;
+	 for(i=1;i<=1;i++)
+		 fact=fact*i;
+	 return fact;
+	 
+ }
+ public int i nCr(int n, int r)
+ {
+	 return factorial(n)(n-r)
+ }
+}
+
+----------------------------------- SOURCE END -------------------------------------
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2031)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3795)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1943)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1974)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3052)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3347)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1524)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1231)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:820)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 2 2021-07-19 21:44:09.914
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core.manipulation".
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2031)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3795)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1943)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1974)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3052)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3347)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1524)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1231)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:820)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 0 2021-07-19 21:44:09.918
+!MESSAGE Error in JDT Core during AST creation
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2031)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3795)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1943)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1974)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3052)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3347)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1524)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1231)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:820)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core 4 4 2021-07-19 21:44:11.470
+!MESSAGE Exception occurred during compilation unit conversion:
+----------------------------------- SOURCE BEGIN -------------------------------------
+package companyDetails;
+
+public class factofnumb 
+{
+ private int factorial(int n)
+ {
+	 int i, fact=1;
+	 for(i=1;i<=1;i++)
+		 fact=fact*i;
+	 return fact;
+	 
+ }
+ public int i nCr(int n, int r)
+ {
+	 return factorial(n)(n-r)
+ }
+}
+
+----------------------------------- SOURCE END -------------------------------------
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2031)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3795)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1943)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1974)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3052)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3347)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1524)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1231)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:820)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 2 2021-07-19 21:44:11.473
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core.manipulation".
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2031)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3795)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1943)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1974)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3052)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3347)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1524)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1231)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:820)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 0 2021-07-19 21:44:11.475
+!MESSAGE Error in JDT Core during AST creation
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2031)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3795)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1943)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1974)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3052)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3347)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1524)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1231)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:820)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SESSION 2021-07-20 12:42:39.990 -----------------------------------------------
+eclipse.buildId=4.20.0.I20210611-1600
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-07-20 12:42:59.791
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-20 12:42:59.791
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@64eeddd8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@10f8e2d2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-20 12:43:11.108
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Yoga'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-07-20 22:47:10.853 -----------------------------------------------
+eclipse.buildId=4.20.0.I20210611-1600
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-07-20 22:47:56.667
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-20 22:47:56.667
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6339e604,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4f8900b0,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-20 22:48:23.963
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Yoga'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-07-21 11:13:22.716 -----------------------------------------------
+eclipse.buildId=4.20.0.I20210611-1600
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-07-21 11:13:48.110
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-21 11:13:48.110
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@64eeddd8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@10f8e2d2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-21 11:14:10.542
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Yoga'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-07-21 16:13:53.853 -----------------------------------------------
+eclipse.buildId=4.20.0.I20210611-1600
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-07-21 16:14:12.281
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-21 16:14:12.281
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@670a4738,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@47ffdbba,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-21 16:14:23.056
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Yoga'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.

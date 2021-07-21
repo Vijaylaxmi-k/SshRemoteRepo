@@ -1,0 +1,14 @@
+package Mypackage;
+
+public class dispname {
+
+	public static void main(String[] args) 
+	{
+		String[] names= new String[] {"infosys" , "cognizant", "microsoft"};
+		
+		for(String n:names)
+			System.out.println(n);
+
+	}
+
+}

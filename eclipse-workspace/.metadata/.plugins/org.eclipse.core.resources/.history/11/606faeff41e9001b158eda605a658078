@@ -1,0 +1,13 @@
+// pgm for inheritance that is  reusing base class method in derived class
+package Pakage4;
+
+public class MyClass 
+{
+
+	public static void main(String[] args) 
+	{
+		Thief obj= new Thief();
+		System.out.println(obj.secretcode());
+	}
+
+}

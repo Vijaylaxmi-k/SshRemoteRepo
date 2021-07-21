@@ -1,0 +1,10 @@
+//pgm on display name using string
+package Mypackage;
+
+public class MyClass 
+{
+	public static void main(String[] args) 
+	{
+		
+	}
+}

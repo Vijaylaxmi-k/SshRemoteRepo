@@ -1,0 +1,14 @@
+package Pakage4;
+
+public class MyClass 
+{
+
+	public static void main(String[] args) 
+	{
+		Totalmaths obj= new Totalmaths();
+		System.out.println("subtraction of number:"+obj.subtraction(5,4));
+		
+
+	}
+
+}

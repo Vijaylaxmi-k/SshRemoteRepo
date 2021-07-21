@@ -1,0 +1,25 @@
+package companyDetails;
+import java.util.Scanner;
+public class readAndDisplay {
+
+	//pgm to Read something from user like name and display it 
+		
+		public static void main(String[] args) 
+		{		
+			//variable declaration
+			String name;
+			
+			//read data from user
+			Scanner obj= new Scanner(System.in);
+			//should import util package from scanner 
+			//so just place mouse on scanner than a window will pop
+			//up than just import java.util package
+							
+			System.out.println("Enter your name:");
+			name=obj.next();
+			obj.close();
+			System.out.println("your name is:" +name);
+
+		}
+
+	}
